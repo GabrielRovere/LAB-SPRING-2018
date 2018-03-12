@@ -12,7 +12,7 @@
 | March  8th     |               |               |               |
 | March 15th     |               |               |               |
 | March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
-| March 29th     |               |               |               |
+| March 29th     |  Gabriel      |               |               |
 | April  5th     |               |               |               |
 | April 12th     |  Marco        |  Image-based selection indices            |               |
 | April 19th     |               |               |               |
