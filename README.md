@@ -13,7 +13,7 @@
 | March 15th     |               |               |               |
 | March 22th     | Agustin              |   Pan-cancer Cluster Analysis            |               |
 | March 29th     |               |               |               |
-| April  5th     |               |               |               |
+| April  5th     |   Gabriel            |               |               |
 | April 12th     |  Marco        |  Image-based selection indices            |               |
 | April 19th     |               |               |               |
 | April 26th     |  Ana          |  Genetic response to an exercise intervension. Results from the TIGER study |               |
